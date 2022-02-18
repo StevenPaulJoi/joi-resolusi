@@ -2,4 +2,8 @@ Joi resolusi
 -konsisten ngoding
 -terus belajar bahasa pemrograman agar terupdate
 -semangat menjadi programer yg tidak malas
-react 
+-struktur data dasar 
+vue 
+python
+react
+
