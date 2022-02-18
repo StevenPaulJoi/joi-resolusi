@@ -6,3 +6,4 @@ Joi resolusi
 vue 
 python
 react
+
