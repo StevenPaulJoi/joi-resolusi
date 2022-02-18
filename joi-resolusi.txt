@@ -3,3 +3,6 @@ Joi resolusi
 -terus belajar bahasa pemrograman agar terupdate
 -semangat menjadi programer yg tidak malas
 -struktur data dasar 
+vue 
+python
+react
