@@ -5,3 +5,4 @@ Joi resolusi
 -struktur data dasar 
 vue 
 python
+react
